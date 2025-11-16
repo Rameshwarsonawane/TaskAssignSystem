@@ -7,4 +7,11 @@ Task management system to controlling your task by using website or system. exam
 --
 -- In this run the apache and mysql server
 ---in mysql create a dababase and pasting ramdya_db sql queries to create sql database
-----and 
+----and in include folder one file connection.php to changing your databse name 
+
+--
+--
+--
+--
+###Then Run on your apache server 
+--localhost/your-project-name/
